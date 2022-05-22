@@ -18,5 +18,4 @@
       <a href="https://www.instagram.com/_sophia.freire/" target="_blank"><img src=["https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) target="_blank"></a>
  
  
-  ![Snake animation]("https://github.com/SophiaFreire/SophiaFreire/blob/output/github-contribution-grid-snake.svg")
   </div> 
