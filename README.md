@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Sophia Freire, sejam todos bem-vindos!
 <div align="center">
   <a href="https://github.com/Sophia-Freire">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Sophia-Freire&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-Freire&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Sophia-Freire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-Freire&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
   <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
