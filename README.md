@@ -1,4 +1,4 @@
-# SophiaFreire
+## Olá! Eu sou a Sophia Freire e estou ingressando na imensa área da tecnologia. Sejam todos bem-vindos!
 <div align="center">
   <a href="https://github.com/Sophia-Freire">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Sophia-Freire&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
